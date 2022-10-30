@@ -1,5 +1,8 @@
-### The roots of education are bitter, but the fruit is sweet.
 
+<h3 align='center'>The roots of education are bitter, but the fruit is sweet.</h3>
 
-
-[![image](https://user-images.githubusercontent.com/73103043/198879282-12e8ecb9-2f60-4b89-b536-93a329b728b3.png)](https://www.linkedin.com/in/aleksandr-kasyuk-9ab4731bb/)
+<p align='center'>
+   <a href="https://www.linkedin.com/in/aleksandr-kasyuk-9ab4731bb/">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+</p>
